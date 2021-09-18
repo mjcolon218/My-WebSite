@@ -1,0 +1,56 @@
+
+
+
+
+
+
+body {
+  margin:0;
+  text-align:center;
+}
+.top-header{
+  background-color: #66BFBF;
+  margin-top: 0;
+  padding-top:50px;
+  font-family:'Birthstone Bounce', cursive;
+
+ }
+.top_div {
+  background-color: #E4F9F5;
+  position:relative;
+
+ }
+.top_cloud {
+ position:absolute;
+ right:115px;
+ top:10px;
+
+
+ }
+ .bottom_cloud {
+ position:absolute
+ }
+ .profile {
+ font-family: Copperplate, Papyrus, fantasy;
+ }
+
+.skills{
+font-family: Copperplate, Papyrus, fantasy;
+
+}
+.bottom-container {
+font-family: Copperplate, Papyrus, fantasy;
+background-color: #E4F9F5;
+
+
+ }
+.middle-container {
+ background-color: #66BFBF;
+
+}
+
+.contact-me{
+}font-family:Copperplate, Papyrus, fantasy;
+.skills_table {
+margin-left:auto
+margin-right:auto}
